@@ -9,7 +9,7 @@
         "device_id": "d9a43190cf3b98f9",
         "key": "d9a43190cf3b98f9",
         "expirydate": "15-06-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "",
