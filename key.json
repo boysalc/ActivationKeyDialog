@@ -62,8 +62,8 @@
     {
         "device_id": "d02940a8e7154c2b",
         "key": "d02940a8e7154c2b",
-        "expirydate": "08-08-2025",
-        "Allowoffline": false
+        "expirydate": "08-08-2035",
+        "Allowoffline": true
     },
     {
         "device_id": "xxxxxxxxxxxxxxxx",
