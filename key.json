@@ -51,7 +51,7 @@
         "device_id": "a2f7c13180227efa",
         "key": "a2f7c13180227efa",
         "expirydate": "15-06-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "xxxxxxxxxxxxxxxx",
