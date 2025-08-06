@@ -1,9 +1,9 @@
 [
     {
         "device_id": "f0486e57dd040e0a",
-        "key": "f0486e57dd040e0",
+        "key": "f0486e57dd040e0a",
         "expirydate": "31-12-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "f6a7bea637975853",
@@ -24,16 +24,16 @@
         "Allowoffline": true
     },
     {
-        "device_id": "xxxxxxxxxxxxxxxx",
-        "key": "xxxxxxxxxxxxxxx",
+        "device_id": "dfd7934a38f9b0bd",
+        "key": "dfd7934a38f9b0bd",
         "expirydate": "15-06-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
-        "device_id": "xxxxxxxxxxxxxxxx",
-        "key": "xxxxxxxxxxxxxxx",
+        "device_id": "c440cc0c2f391acb",
+        "key": "c440cc0c2f391acb",
         "expirydate": "15-06-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "xxxxxxxxxxxxxxxx",
