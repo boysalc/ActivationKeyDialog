@@ -61,9 +61,9 @@
     },
     {
         "device_id": "wwwwwwwwww",
-        "key": "b6b60ac3d7fac366",
+        "key": "wwwwwwwwwwww",
         "expirydate": "15-06-2035",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "xxxxxxxxxxxxxxxx",
