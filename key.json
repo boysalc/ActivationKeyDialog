@@ -86,8 +86,8 @@
     {
         "device_id": "cc58d6c9a96469df",
         "key": "cc58d6c9a96469df",
-        "expirydate": "10-08-2025",
-        "Allowoffline": false
+        "expirydate": "10-08-2035",
+        "Allowoffline": true
     },
     {
         "device_id": "26ebed5ae789b575",
