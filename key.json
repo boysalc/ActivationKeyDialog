@@ -114,6 +114,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "869b867b3ba7d55b",
+        "key": "869b867b3ba7d55b",
+        "expirydate": "10-08-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "xxxxxxxxxxxxxxxx",
         "key": "xxxxxxxxxxxxxxx",
         "expirydate": "15-06-2035",
