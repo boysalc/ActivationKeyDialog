@@ -122,8 +122,8 @@
     {
         "device_id": "797d04f51cdb22ab",
         "key": "797d04f51cdb22ab",
-        "expirydate": "11-08-2025",
-        "Allowoffline": false
+        "expirydate": "11-08-2035",
+        "Allowoffline": true
     },
     {
         "device_id": "xxxxxxxxxxxxxxxx",
