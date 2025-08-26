@@ -221,6 +221,12 @@
         "expirydate": "15-06-2035",
         "Allowoffline": true
     },
+        {
+        "device_id": "8d7592dd608bb6b0",
+        "key": "8d7592dd608bb6b0",
+        "expirydate": "15-06-2035",
+        "Allowoffline": true
+    },
     {
         "device_id": "xxxxxxxxxxxxxxxx",
         "key": "xxxxxxxxxxxxxxx",
