@@ -240,10 +240,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "xxxxxxxxxxxxxxxx",
-        "key": "xxxxxxxxxxxxxxx",
+        "device_id": "d32aa41f390c5b78",
+        "key": "d32aa41f390c5b78",
         "expirydate": "15-06-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "xxxxxxxxxxxxxxxx",
