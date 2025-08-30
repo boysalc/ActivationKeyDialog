@@ -246,10 +246,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "xxxxxxxxxxxxxxxx",
-        "key": "xxxxxxxxxxxxxxx",
+        "device_id": "08bbd509e2b957a0",
+        "key": "08bbd509e2b957a0",
         "expirydate": "15-06-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "xxxxxxxxxxxxxxxx",
